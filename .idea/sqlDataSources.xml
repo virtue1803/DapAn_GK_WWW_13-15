@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="23572a2b-645a-43da-85b5-050c294ac7e1" name="teo@localhost Mapping">
+      <data-sources db="8afde46e-fd67-4d59-893f-85d8b2fbaebb" />
+      <scope>
+        <node kind="schema" qname="teo" />
+      </scope>
+    </mapping>
+  </component>
+</project>
